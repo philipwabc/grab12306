@@ -14,7 +14,7 @@ module.exports = {
 	grab_train_schedule : true,
 	
 	//是否自动抓取最新日期的车次列表，如为false则需手动选择抓取日期
-	grab_newest_train_list : false,
+	grab_newest_train_list : true,
 
 	
 	//保存路径
